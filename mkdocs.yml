@@ -1,0 +1,8 @@
+site_name: "lk"
+site_description: "k"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

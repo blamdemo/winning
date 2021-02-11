@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "lk"
+  description: "k"
+  annotations:
+    github.com/project-slug: blamdemo/winning
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/winning
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "kl"
